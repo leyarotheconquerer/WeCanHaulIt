@@ -1,0 +1,8 @@
+.vsconfig
+*.blend[0-9]
+
+Binaries/
+Intermediate/
+Saved/
+.idea/
+.vs/
