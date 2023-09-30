@@ -1,0 +1,41 @@
+[
+	{
+		"Name": "Level1",
+		"LevelName": "Level 1",
+		"Resources":
+		{
+			"Dirt": 1
+		},
+		"Actor": "/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Tower/TowerLevel.TowerLevel_C'"
+	},
+	{
+		"Name": "Level2",
+		"LevelName": "Level 2",
+		"Resources":
+		{
+			"Cement": 2
+		},
+		"Actor": "/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Tower/TowerLevel.TowerLevel_C'"
+	},
+	{
+		"Name": "Level3",
+		"LevelName": "Level 3",
+		"Resources":
+		{
+			"Dirt": 2,
+			"Cement": 2
+		},
+		"Actor": "/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Tower/TowerLevel.TowerLevel_C'"
+	},
+	{
+		"Name": "Level4",
+		"LevelName": "Level 4",
+		"Resources":
+		{
+			"Log": 2,
+			"Dirt": 1,
+			"Cement": 2
+		},
+		"Actor": "/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Tower/TowerLevel.TowerLevel_C'"
+	}
+]
