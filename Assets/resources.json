@@ -10,7 +10,8 @@
 			"G": 0.003922,
 			"B": 0,
 			"A": 1
-		}
+		},
+		"Image": "/Script/Engine.Texture2D'/Game/Models/Images/Dirt.Dirt'"
 	},
 	{
 		"Name": "Cement",
@@ -23,7 +24,8 @@
 			"G": 0.062745,
 			"B": 0.062745,
 			"A": 1
-		}
+		},
+		"Image": "/Script/Engine.Texture2D'/Game/Models/Images/Cement.Cement'"
 	},
 	{
 		"Name": "Log",
@@ -36,6 +38,7 @@
 			"G": 0.078431,
 			"B": 0.007843,
 			"A": 1
-		}
+		},
+		"Image": "/Script/Engine.Texture2D'/Game/Models/Images/Log.Log'"
 	}
 ]

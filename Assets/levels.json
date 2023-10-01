@@ -13,7 +13,7 @@
 				"Trailers": [
 					"/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Truck/DirtTrailer.DirtTrailer_C'"
 				],
-				"Image": "None"
+				"Image": "/Script/Engine.Texture2D'/Game/Models/Images/DirtTrailer.DirtTrailer'"
 			}
 		]
 	},
@@ -31,14 +31,14 @@
 				"Trailers": [
 					"/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Truck/DirtTrailer.DirtTrailer_C'"
 				],
-				"Image": "None"
+				"Image": "/Script/Engine.Texture2D'/Game/Models/Images/DirtTrailer.DirtTrailer'"
 			},
 			{
 				"Name": "NSLOCTEXT(\"[B8BDADBDF9CEDBA228462426E472416D]\", \"0C3880CE48045D4B7E23BA874C5787B2\", \"Cement\")",
 				"Trailers": [
 					"/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Truck/CementTrailer.CementTrailer_C'"
 				],
-				"Image": "None"
+				"Image": "/Script/Engine.Texture2D'/Game/Models/Images/CementTrailer.CementTrailer'"
 			}
 		]
 	},
@@ -57,14 +57,14 @@
 				"Trailers": [
 					"/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Truck/DirtTrailer.DirtTrailer_C'"
 				],
-				"Image": "None"
+				"Image": "/Script/Engine.Texture2D'/Game/Models/Images/DirtTrailer.DirtTrailer'"
 			},
 			{
 				"Name": "NSLOCTEXT(\"[B8BDADBDF9CEDBA228462426E472416D]\", \"0C3880CE48045D4B7E23BA874C5787B2\", \"Cement\")",
 				"Trailers": [
 					"/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Truck/CementTrailer.CementTrailer_C'"
 				],
-				"Image": "None"
+				"Image": "/Script/Engine.Texture2D'/Game/Models/Images/CementTrailer.CementTrailer'"
 			}
 		]
 	},
@@ -84,21 +84,21 @@
 				"Trailers": [
 					"/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Truck/DirtTrailer.DirtTrailer_C'"
 				],
-				"Image": "None"
+				"Image": "/Script/Engine.Texture2D'/Game/Models/Images/DirtTrailer.DirtTrailer'"
 			},
 			{
 				"Name": "NSLOCTEXT(\"[B8BDADBDF9CEDBA228462426E472416D]\", \"1A1332ED428BB8EA5E096C9CDA309A55\", \"Cement\")",
 				"Trailers": [
 					"/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Truck/CementTrailer.CementTrailer_C'"
 				],
-				"Image": "None"
+				"Image": "/Script/Engine.Texture2D'/Game/Models/Images/CementTrailer.CementTrailer'"
 			},
 			{
 				"Name": "NSLOCTEXT(\"[B8BDADBDF9CEDBA228462426E472416D]\", \"76C154AD4CF6E471DB558FAE20840D70\", \"Log\")",
 				"Trailers": [
 					"/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Truck/LogTrailer.LogTrailer_C'"
 				],
-				"Image": "None"
+				"Image": "/Script/Engine.Texture2D'/Game/Models/Images/LogTrailer.LogTrailer'"
 			}
 		]
 	},
@@ -119,14 +119,14 @@
 					"/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Truck/DirtTrailer.DirtTrailer_C'",
 					"/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Truck/CementTrailer.CementTrailer_C'"
 				],
-				"Image": "None"
+				"Image": "/Script/Engine.Texture2D'/Game/Models/Images/DirtCementTrailers.DirtCementTrailers'"
 			},
 			{
 				"Name": "NSLOCTEXT(\"[B8BDADBDF9CEDBA228462426E472416D]\", \"76C154AD4CF6E471DB558FAE20840D70\", \"Log\")",
 				"Trailers": [
 					"/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Truck/LogTrailer.LogTrailer_C'"
 				],
-				"Image": "None"
+				"Image": "/Script/Engine.Texture2D'/Game/Models/Images/LogTrailer.LogTrailer'"
 			}
 		]
 	}
