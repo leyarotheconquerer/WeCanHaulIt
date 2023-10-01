@@ -11,7 +11,8 @@
 			"B": 0,
 			"A": 1
 		},
-		"Image": "/Script/Engine.Texture2D'/Game/Models/Images/Dirt.Dirt'"
+		"Image": "/Script/Engine.Texture2D'/Game/Models/Images/Dirt.Dirt'",
+		"CargoModel": "/Script/Engine.StaticMesh'/Game/Models/Resources/DirtCargo.DirtCargo'"
 	},
 	{
 		"Name": "Cement",
@@ -25,7 +26,8 @@
 			"B": 0.062745,
 			"A": 1
 		},
-		"Image": "/Script/Engine.Texture2D'/Game/Models/Images/Cement.Cement'"
+		"Image": "/Script/Engine.Texture2D'/Game/Models/Images/Cement.Cement'",
+		"CargoModel": "/Script/Engine.StaticMesh'/Game/Models/Resources/CementCargo.CementCargo'"
 	},
 	{
 		"Name": "Log",
@@ -39,6 +41,7 @@
 			"B": 0.007843,
 			"A": 1
 		},
-		"Image": "/Script/Engine.Texture2D'/Game/Models/Images/Log.Log'"
+		"Image": "/Script/Engine.Texture2D'/Game/Models/Images/Log.Log'",
+		"CargoModel": "/Script/Engine.StaticMesh'/Game/Models/Resources/LogCargo.LogCargo'"
 	}
 ]
