@@ -1,0 +1,41 @@
+[
+	{
+		"Name": "Dirt",
+		"ResourceName": "Dirt",
+		"Title": "NSLOCTEXT(\"[54A5467CC3C4347E14FFA9398148A801]\", \"E19F84CE4A4681BC82B8A59A12E53E8E\", \"Dirt\")",
+		"Type": "/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Depot/Dirt.Dirt_C'",
+		"Color":
+		{
+			"R": 0.035294,
+			"G": 0.003922,
+			"B": 0,
+			"A": 1
+		}
+	},
+	{
+		"Name": "Cement",
+		"ResourceName": "Cement",
+		"Title": "NSLOCTEXT(\"[54A5467CC3C4347E14FFA9398148A801]\", \"96A5ADBA40F9CA7710FCB093C4A6216A\", \"Cement\")",
+		"Type": "/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Depot/Cement.Cement_C'",
+		"Color":
+		{
+			"R": 0.062745,
+			"G": 0.062745,
+			"B": 0.062745,
+			"A": 1
+		}
+	},
+	{
+		"Name": "Log",
+		"ResourceName": "Log",
+		"Title": "NSLOCTEXT(\"[54A5467CC3C4347E14FFA9398148A801]\", \"CFED14BB4C2BF0C7E59FF48C2C09C3AF\", \"Log\")",
+		"Type": "/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Depot/Log.Log_C'",
+		"Color":
+		{
+			"R": 0,
+			"G": 0.078431,
+			"B": 0.007843,
+			"A": 1
+		}
+	}
+]
